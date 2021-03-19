@@ -7,35 +7,9 @@
 
 html {
     background-image: url(../img/f.png);
-    background-size: cover;
-    background-attachment: fixed; 
-    font-family: fedor;
+    
 }
 
-.headerNav {
-    text-align: center;
-    border: solid 1px black;
-    border-radius: 30px;
-}
-
-.headerNav a:hover {
-    padding: 5px 15px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    color: white;
-}
-
-.headerNav a {
-    display: inline-block;
-    padding: 20px 15px;
-    font-size: 21px;
-    background-color: rgba(177, 127, 180, 0.0);
-    text-decoration: none;
-    color: black;
-    margin: 0px 20px;
-    transition: 0.1s;
-    font-family: 'Pacifico';
-}
 
 .main {
     height: auto;
@@ -68,9 +42,4 @@ article {
 
 footer {
     grid-area: footer;
-}
-
-.footer-text {
-    text-align: center;
-    margin-top: 80px;
 }
