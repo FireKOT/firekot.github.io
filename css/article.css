@@ -28,18 +28,9 @@ html {
     grid-gap: 10px;
     color: white;
 }
-
-header {
-    grid-area: header;
-    padding-top: 10px;
-}
-
 article {
     grid-area: article;
     text-align: center;
     padding: 10px;
 }
 
-footer {
-    grid-area: footer;
-}
