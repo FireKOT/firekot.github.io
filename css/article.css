@@ -6,11 +6,8 @@
 }
 
 html {
-    background-image: url(../img/f.png);
-    
+    background-image: url(../img/f.png); 
 }
-
-
 .main {
     height: auto;
     min-height: calc(100% + 100px);
@@ -33,4 +30,3 @@ article {
     text-align: center;
     padding: 10px;
 }
-
