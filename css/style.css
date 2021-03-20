@@ -86,7 +86,7 @@ footer {
     
     display: grid;
     grid-template-areas: "post-img post-text";
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
 }
 
