@@ -54,7 +54,7 @@ a {
     "footer footer footer";
     
     grid-template-rows: 100px 1fr 100px;
-    grid-template-columns: 700px minmax(500px, 1fr) 500px;
+    grid-template-columns: minmax(700px, 2fr) minmax(500px, 1fr) minmax(500px, 2fr);
     
     grid-gap: 10px;
     color: white;
