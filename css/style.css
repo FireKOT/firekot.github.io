@@ -119,3 +119,6 @@ footer {
     text-align: center;
     margin-top: 80px;
 }
+.footer-text a{
+    color: white;
+}
