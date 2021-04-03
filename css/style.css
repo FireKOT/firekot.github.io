@@ -123,6 +123,6 @@ footer {
     color: white;
     transition: 0.5s;
 }
-.footer-text a: hover{
+.footer-text a:hover{
     color: yellow;
 }
