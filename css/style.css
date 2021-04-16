@@ -53,7 +53,7 @@ a {
     "content img nav"
     "footer footer footer";
     
-    grid-template-rows: 100px 1fr 100px;
+    grid-template-rows: 100px 100% 100px;
     grid-template-columns: minmax(700px, 2fr) minmax(500px, 1fr) minmax(500px, 2fr);
     
     grid-gap: 10px;
